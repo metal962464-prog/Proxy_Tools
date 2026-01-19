@@ -1,1 +1,21 @@
-Proxy_Tools
+## Sing-Box核心编译
+
+## sing-box 内核 reF1nd-main 版
+
+```
+curl -L https://github.com/metal962464-prog/Proxy_Tools/releases/download/sing-box/sing-box-ref1nd-main-linux-amd64v3.tar.gz | tar -zx -C /usr/local/bin
+```
+
+## Changelog <br/>
+
+1. 更新 [sing-box reF1nd-main 版](https://github.com/reF1nd/sing-box/tree/reF1nd-main)至 v1.12.17-reF1nd，发布于 2026-01-17 <br/>
+2. 更新 [sing-box reF1nd-dev 版](https://github.com/reF1nd/sing-box/tree/reF1nd-dev)至 v1.13.0-beta.7-reF1nd，发布于 2026-01-17 <br/>
+3. 更新 [sing-box Release 版](https://github.com/SagerNet/sing-box/tree/main)至 v1.12.17，发布于 2026-01-17 <br/>
+4. 更新 [sing-box Dev 版](https://github.com/SagerNet/sing-box/tree/dev)至 v1.13.0-beta.7，发布于 2026-01-17
+
+---
+
+
+
+---
+
